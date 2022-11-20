@@ -5,4 +5,4 @@
 4) This is a good target for a unit test since it is a single binary outcome that is not reliant on any other functions.
 
 Jest Output results:
-![jestoutput.png]
+!(jestoutput.png)
